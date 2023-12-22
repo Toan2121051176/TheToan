@@ -6,7 +6,7 @@ session_start();
 
 <head>
     <meta charset="utf-8">
-    <title>Dư-Đạt-Chiến</title>
+    <title>Chu Thế Toàn</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -371,9 +371,9 @@ require('config/header.php');
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <h4 class="section-title ff-secondary text-start text-primary fw-normal mb-4">Liên Hệ</h4>
-                        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 phố cổ, Hà Nội, Việt Nam</p>
-                        <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+84 65894156</p>
-                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>username@gmail.com</p>
+                        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Ba Vì, Hà Nội, Việt Nam</p>
+                        <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>0983080347</p>
+                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>toansd9a@gmail.com</p>
                         <div class="d-flex pt-2">
                             <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-facebook-f"></i></a>

@@ -11,7 +11,7 @@
         <div class="container">
             <nav class="navbar navbar-light navbar-expand-lg py-4">
                 <a href="index.php" class="navbar-brand">
-                    <h1 class="text-primary fw-bold mb-0">DCĐ<span class="text-dark">Store</span> </h1>
+                    <h1 class="text-primary fw-bold mb-0">Cửa hàng<span class="text-dark">Chu thế Toàn</span> </h1>
                 </a>
 
                 <button class="navbar-toggler py-2 px-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -73,7 +73,7 @@
     <!-- Hero Start -->
     <div class="container-fluid bg-light py-6 my-6 mt-0">
         <div class="container text-center animated bounceInDown">
-            <h1 class="display-1 mb-4" style="font-family: Arial, Helvetica, sans-serif;">Chào mừng đến với DCĐ Store</h1>
+            <h1 class="display-1 mb-4" style="font-family: Arial, Helvetica, sans-serif;">Chào mừng đến với Chu Thế Toàn Store</h1>
             <ol class="breadcrumb justify-content-center mb-0 animated bounceInDown">
                 <li class="breadcrumb-item"><a href="index.php">Trang chủ</a></li>
                 <li class="breadcrumb-item"><a href="menu.php">Sản phẩm</a></li>

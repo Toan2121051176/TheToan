@@ -6,7 +6,7 @@ session_start();
 
 <head>
     <meta charset="utf-8">
-    <title>Dư-Đạt-Chiến</title>
+    <title>Chu Thế Toàn</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -59,23 +59,23 @@ session_start();
                                 <i class="fas fa-map-marker-alt fa-2x text-primary me-4"></i>
                                 <div class="">
                                     <h4>Địa chỉ</h4>
-                                    <p>123 phố cổ, Hà Nội, Việt Nam</p>
+                                    <p>Ba Vì, Hà Nội, Việt Nam</p>
                                 </div>
                             </div>
                             <div class="d-inline-flex w-100 border border-primary p-4 rounded mb-4">
                                 <i class="fas fa-envelope fa-2x text-primary me-4"></i>
                                 <div class="">
                                     <h4>Địa chỉ email</h4>
-                                    <p class="mb-2">DCĐ@gmail.com</p>
-                                    <p class="mb-0">username@gmail.com</p>
+                                    <p class="mb-2">toansd9a@gmail.com</p>
+                                    <p class="mb-0">123Toan@gmail.com</p>
                                 </div>
                             </div>
                             <div class="d-inline-flex w-100 border border-primary p-4 rounded">
                                 <i class="fa fa-phone-alt fa-2x text-primary me-4"></i>
                                 <div class="">
                                     <h4>Đường dây nóng</h4>
-                                    <p class="mb-2">+84 65894156</p>
-                                    <p class="mb-0">+84 65898888</p>
+                                    <p class="mb-2">0983080347</p>
+                                    <p class="mb-0">0395401512</p>
                                 </div>
                             </div>
                         </div>

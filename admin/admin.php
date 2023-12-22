@@ -34,7 +34,7 @@ if(!isset($_SESSION['username'])==='admin' || $_SESSION['username'] !== 'admin')
 <body>
     <header>
         <div class="header-container"> 
-            <h1 class="restaurant-title">DCĐ Store</h1>
+            <h1 class="restaurant-title">Chu Thế Toàn Store</h1>
         </div>
     </header>
 

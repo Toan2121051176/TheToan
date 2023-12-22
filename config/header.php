@@ -10,7 +10,7 @@
         <div class="container">
             <nav class="navbar navbar-light navbar-expand-lg py-4">
                 <a href="index.php" class="navbar-brand">
-                    <h1 class="text-primary fw-bold mb-0">DCĐ<span class="text-dark">Store</span> </h1>
+                    <h1 class="text-primary fw-bold mb-0">Cửa hàng<span class="text-dark">Chu Thế Toàn</span> </h1>
                 </a>
 
                 <button class="navbar-toggler py-2 px-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">

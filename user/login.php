@@ -74,7 +74,7 @@ $conn->close();
     </div>
     <div class="logo">
         <div class="logo_container">
-            <h1 class="text-primary fw-bold mb-0">DCĐ<span class="text-dark">Store</span> </h1>
+            <h1 class="text-primary fw-bold mb-0">Cửa hàng<span class="text-dark">Chu Thế Toàn</span> </h1>
             <p class="logo1">Thiên đường đồ ăn vặt,<br> <span style="margin-left: 5em;">luôn luôn mang đến cho bạn những sản phẩm và dịch vụ tốt nhất.</span></p>
 
         </div>
