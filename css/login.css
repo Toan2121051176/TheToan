@@ -1,0 +1,179 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.login-box {
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    width: 400px;
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .3);
+    border-radius: 1em;
+}
+
+.login-box h1 {
+    margin: 0 0 30px;
+    padding: 0;
+    color: black;
+    text-align: center;
+}
+
+.login-box .user-box {
+    position: relative;
+}
+
+.login-box .user-box input {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: black;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    background: transparent;
+}
+
+.login-box .user-box label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px 0;
+    font-size: 16px;
+    color: black;
+    pointer-events: none;
+    transition: .5s;
+}
+
+.login-box .user-box input:focus~label,
+.login-box .user-box input:valid~label {
+    top: 32px;
+    left: 0;
+    font-size: 20px;
+}
+
+.back-button {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.login {
+    width: 15em;
+    height: 3em;
+    background-color: #1877f2;
+    color: white;
+    border: none;
+    border-radius: 3em;
+    font-size: 20px;
+    font-weight: boid;
+}
+
+.forget {
+    text-decoration: none;
+}
+
+.col3 {
+    align-items: center;
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.col3 input {
+    margin: 1em 0;
+}
+
+.register {
+    background-color: #42b72a;
+    border: none;
+    width: 10em;
+    height: 3em;
+    border-radius: 3em;
+    color: white;
+    font-size: 19px;
+}
+
+.logo {
+    width: fit-content;
+    height: max-content;
+    text-align: center;
+    margin: 15% 0 0 3em;
+}
+
+.logo h1 {
+    font-size: 4em;
+}
+
+.logo p {
+    font-weight: bold;
+    font-size: 1em;
+    color: black;
+}
+
+
+/* Thanh đăng nhập sẽ tự động điều chỉnh kích thước nếu màn hình được thu nhỏ hơn 768px (tablet) */
+
+@media (max-width: 768px) {
+    .login-box {
+        width: 55%;
+        padding: 20px;
+        left: 50%;
+        margin-top: 2em;
+    }
+    .logo1 {
+        display: none;
+    }
+    .logo {
+        width: fit-content;
+        height: max-content;
+        text-align: center;
+        margin: 0 auto;
+        margin-bottom: 10ems;
+    }
+    .logo h1 {
+        font-size: 4em;
+    }
+}
+
+
+/* Thanh đăng nhập sẽ tự động điều chỉnh kích thước nếu màn hình được thu nhỏ hơn 480px (mobile) */
+
+@media (max-width: 480px) {
+    .login-box {
+        width: 70%;
+        padding: 20px;
+        left: 50%;
+        margin-top: 3em;
+    }
+    .logo1 {
+        display: none;
+    }
+    .logo {
+        width: fit-content;
+        height: max-content;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 2em;
+    }
+    .logo h1 {
+        font-size: 3em;
+    }
+    .login {
+        width: 13em;
+        height: 3em;
+        background-color: #1877f2;
+        color: white;
+        border: none;
+        border-radius: 3em;
+        font-size: 20px;
+        font-weight: boid;
+    }
+}
